@@ -53,8 +53,9 @@
 
 ### 📊 GitHub Contributions
 <p align="center">
-  <img src="https://ghchart.rshah.org/saisriharsha2003" alt="saisriharsha2003's GitHub Contributions"/>
+  <img src="https://github.com/saisriharsha2003/saisriharsha2003/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake"/>
 </p>
+
 
 
 ---
