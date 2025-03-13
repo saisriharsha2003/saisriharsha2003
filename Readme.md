@@ -5,16 +5,16 @@
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 - 🔭 I’m currently working as **DevOps Engineer at TCS**
-- 💻 I love automating workflows and optimizing cloud infrastructure  
-- 🎯 Focused on **CI/CD | Kubernetes | AWS | Docker | Cloud Security**  
-- 🌐 Check out my portfolio: [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)  
-- 📫 How to reach me: **saisriharsha2003@gmail.com**  
+- 💻 I love automating workflows and optimizing cloud infrastructure
+- 🎯 Focused on **CI/CD | Kubernetes | AWS | Docker | Cloud Security**
+- 🌐 Check out my portfolio: [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)
+- 📫 How to reach me: **saisriharsha2003@gmail.com**
 
 ---
 
-### 📫 Connect with Me  
+### 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/saisriharsha2005" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,21 +25,21 @@
   <a href="https://www.hackerrank.com/rankelassh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/saisriharsha2005" target="_blank">
+  <a href="https://leetcode.com/saisriharsha2005" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
 </p>
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github,jenkins,terraform,bash,python,nodejs,react,java,mysql,mongodb,html,css,tailwind" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saisriharsha2003&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisriharsha2003&theme=tokyonight" height="180em"/>
@@ -51,21 +51,21 @@
 
 ---
 
-### 🔥 Contribution Graph  
+### 🔥 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saisriharsha2003&theme=react-dark" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saisriharsha2003&theme=onedark&no-bg=true" />
 </p>
 
 ---
 
-### 🎯 Fun Fact  
+### 🎯 Fun Fact
 💡 I automate everything so I can be lazy more efficiently! 😆
 
 ---
