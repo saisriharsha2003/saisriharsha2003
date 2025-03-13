@@ -51,10 +51,11 @@
 
 ---
 
-### 🔥 Contribution Graph
+### 📊 GitHub Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saisriharsha2003&theme=react-dark" />
+  <img src="https://ghchart.rshah.org/saisriharsha2003" alt="saisriharsha2003's GitHub Contributions"/>
 </p>
+
 
 ---
 
