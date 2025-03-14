@@ -7,11 +7,21 @@
 
 ## 🚀 About Me
 
-- 🔭 **DevOps Engineer at TCS**
-- 💻 Passionate about **Automation and Cloud Infrastructure**
-- 🎯 Focused on **CI/CD | Kubernetes | AWS | Docker | Cloud Security**
-- 🌐 **Portfolio:** [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)
-- 📫 **Email:** [saisriharsha2003@gmail.com](mailto:saisriharsha2003@gmail.com)
+### 👨‍💻 Professional Journey
+- **Role**: DevOps Engineer at TCS
+- **Specialization**: Docker, Kuberntes, AWS
+
+### 🌱 Passion & Interests
+- Full Stack We Developer
+- Python Developer
+- Java Developer
+- Full Stack NLP Engineer
+  
+### 🌐 Portfolio
+- [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)
+
+### 📫 Reach Me At
+- Email: [saisriharsha2003@gmail.com](mailto:saisriharsha2003@gmail.com)
 
 ---
 
@@ -69,22 +79,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saisriharsha2003&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 🎉 Animated Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saisriharsha2003&theme=github" />
-</p>
-
----
-
-## 💡 Visitors Map
-
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/main/assets/visitormap.svg" />
 </p>
 
 ---
