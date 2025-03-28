@@ -28,18 +28,23 @@
 
 ---
 
-## 🌐 Coding Profiles
+## 👨‍💻 Coding Profiles
 
 <p align="center">
-  <a href="https://www.codechef.com/users/saisriharsha05" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  <a href="https://leetcode.com/saisriharsha2005" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
   <a href="https://www.hackerrank.com/rankelassh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/saisriharsha2005" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  <a href="https://www.naukri.com/code360/profile/sai2035" target="_blank">
+    <img src="https://img.shields.io/badge/CodingNinjas-orange?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
+  <a href="https://www.codechef.com/users/saisriharsha05" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  
+  
 </p>
 
 ---
