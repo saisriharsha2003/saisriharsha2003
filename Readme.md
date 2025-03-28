@@ -23,10 +23,10 @@
 
 ## 🌐 Portfolio & Reach Me At
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="20"/> [Portfolio](https://saisriharsha-portfolio.netlify.app/)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/> [Email](mailto:saisriharsha.r@gmail.com)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/> [LinkedIn](https://linkedin.com/in/saisriharsha2005)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> [GitHub](https://github.com/saisriharsha2003)
+- **Portfolio**: [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)
+- **Email**: [saisriharsha.r@gmail.com](mailto:saisriharsha.r@gmail.com)
+- **LinkedIn**: [linkedin.com/in/saisriharsha2005](https://linkedin.com/in/saisriharsha2005)
+- **GitHub**: [github.com/saisriharsha2003](https://github.com/saisriharsha2003)
 
 ---
 
