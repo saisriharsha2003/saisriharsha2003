@@ -10,7 +10,7 @@
 ### 👨‍💻 Professional Journey
 
 - **Role**: DevOps Engineer at TCS
-- **Specialization**: Docker, Kubernetes, AWS, CI/CD, Terraform
+- **Specialization**: Docker, Kubernetes, AWS, MERN Stack, Python
 
 ### 🌱 Passion & Interests
 
