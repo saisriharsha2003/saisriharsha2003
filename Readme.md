@@ -21,20 +21,11 @@
 
 ## 🌐 Portfolio & Reach Me At
 
-<p align="center">
-  <a href="https://saisriharsha-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:saisriharsha.r@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/saisriharsha2005" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/saisriharsha2003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+- <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="20"/> **Portfolio**: [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)
+- <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="20"/> **Email**: [saisriharsha.r@gmail.com](mailto:saisriharsha.r@gmail.com)
+- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/> **LinkedIn**: [linkedin.com/in/saisriharsha2005](https://linkedin.com/in/saisriharsha2005)
+- <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" height="20"/> **GitHub**: [github.com/saisriharsha2003](https://github.com/saisriharsha2003)
+
 
 ---
 
