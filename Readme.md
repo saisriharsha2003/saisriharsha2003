@@ -8,10 +8,12 @@
 ## 🚀 About Me
 
 ### 👨‍💻 Professional Journey
+
 - **Role**: DevOps Engineer at TCS
 - **Specialization**: Docker, Kubernetes, AWS, CI/CD, Terraform
 
 ### 🌱 Passion & Interests
+
 - Full Stack Web Developer
 - Python & Java Developer
 - Full Stack NLP Engineer
@@ -21,11 +23,10 @@
 
 ## 🌐 Portfolio & Reach Me At
 
-- <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="20"/> **Portfolio**: [saisriharsha-portfolio.netlify.app](https://saisriharsha-portfolio.netlify.app/)
-- <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="20"/> **Email**: [saisriharsha.r@gmail.com](mailto:saisriharsha.r@gmail.com)
-- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="20"/> **LinkedIn**: [linkedin.com/in/saisriharsha2005](https://linkedin.com/in/saisriharsha2005)
-- <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" height="20"/> **GitHub**: [github.com/saisriharsha2003](https://github.com/saisriharsha2003)
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="20"/> [Portfolio](https://saisriharsha-portfolio.netlify.app/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/> [Email](mailto:saisriharsha.r@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/> [LinkedIn](https://linkedin.com/in/saisriharsha2005)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> [GitHub](https://github.com/saisriharsha2003)
 
 ---
 
